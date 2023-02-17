@@ -1,1 +1,3 @@
-# TheHunt![image](https://user-images.githubusercontent.com/80744000/219703569-34fc7bd2-68b6-4bc0-8536-4fb63b286481.png)
+# TheHunt!
+
+![image](https://user-images.githubusercontent.com/80744000/219704964-b1ceaacc-479d-4c85-b63a-847ecb3f57b9.png)
