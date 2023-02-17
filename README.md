@@ -5,7 +5,7 @@ Our protaginst, he is hungry, help him:
 
 ## Bees!
 Dont let them sting you 4 times or you will lose!:
-src="https://user-images.githubusercontent.com/80744000/219706894-3a33a6c2-ca5c-4f26-84d5-192068e2f3c9.png">
+![abeja1](https://user-images.githubusercontent.com/80744000/219706894-3a33a6c2-ca5c-4f26-84d5-192068e2f3c9.png)
 
 ## Deers!
 Eat 40 of them to fill you and stop being hungry!:
