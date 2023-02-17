@@ -188,7 +188,7 @@ public class MainApp extends Application {
     public void iniciarComponentes(){
         imagenes = new HashMap<String, Image>();
         cargarImagenes();
-        lobo = new Lobo(20,40,"lobo1");
+        lobo = new Lobo(20,300,"lobo1");
         ciervo = new Ciervo(2000,320,"ciervo1");
         ciervo2 = new Ciervo(2200,000,"ciervo1");
         ciervo3 = new Ciervo(2400,100,"ciervo1");
